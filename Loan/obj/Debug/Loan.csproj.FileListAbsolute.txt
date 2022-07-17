@@ -1,0 +1,427 @@
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\Loan.exe.config
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\Loan.exe
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\Loan.pdb
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\MySql.Data.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.csprojResolveAssemblyReference.cache
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.members_add.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.Properties.Resources.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.csproj.GenerateResource.Cache
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.csproj.CoreCompileInputs.cache
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.exe
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.pdb
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.Add_centers.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.Center_divaid_group.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.Loan_colect.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.Relese_Loan.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.login.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.main.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.reportMenu.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\FlashControlV71.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\bin\Debug\stdole.dll
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.Rpt_AllMember.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.rpt_loan_dtail_by_lon_id.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.rpt_center_loan_details.resources
+C:\Users\Dilan\Documents\Visual Studio 2017\Projects\Loan\Loan\obj\Debug\Loan.remainder.resources
+G:\base\New folder\Loan\Loan\bin\Debug\Loan.exe.config
+G:\base\New folder\Loan\Loan\bin\Debug\Loan.exe
+G:\base\New folder\Loan\Loan\bin\Debug\Loan.pdb
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.Shared.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\base\New folder\Loan\Loan\bin\Debug\FlashControlV71.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\base\New folder\Loan\Loan\bin\Debug\ShockwaveFlashObjects.dll
+G:\base\New folder\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\base\New folder\Loan\Loan\bin\Debug\stdole.dll
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.csprojAssemblyReference.cache
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.Add_centers.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.Center_divaid_group.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.Loan_colect.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.login.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.main.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.members_add.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.Properties.Resources.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.Relese_Loan.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.remainder.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.reportMenu.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.Rpt_AllMember.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.rpt_center_loan_details.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.rpt_loan_dtail_by_lon_id.resources
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.csproj.GenerateResource.cache
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.csproj.CoreCompileInputs.cache
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.csproj.CopyComplete
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.exe
+G:\base\New folder\Loan\Loan\obj\Debug\Loan.pdb
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\Loan.exe.config
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\Loan.exe
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\Loan.pdb
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\FlashControlV71.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\stdole.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.csprojAssemblyReference.cache
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.Add_centers.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.Center_divaid_group.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.Loan_colect.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.login.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.main.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.members_add.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.Properties.Resources.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.Relese_Loan.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.remainder.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.Rpt_AllMember.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.rpt_center_loan_details.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.rpt_loan_dtail_by_lon_id.resources
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.csproj.GenerateResource.cache
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.csproj.CoreCompileInputs.cache
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.csproj.CopyComplete
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.exe
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.pdb
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\obj\Debug\Loan.exe.licenses
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Software & Prject\Hyperlex Projet\2018.06.12\Loan\Loan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.csprojAssemblyReference.cache
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.Add_centers.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.add_system_Useres.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.Center_divaid_group.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.Loan_colect.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.login.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.main.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.members_add.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.Properties.Resources.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.Relese_Loan.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.remainder.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.Rpt_AllMember.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.rpt_center_loan_details.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.rpt_loan_dtail_by_lon_id.resources
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.csproj.GenerateResource.cache
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.exe.licenses
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.exe
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.pdb
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\Loan.exe.config
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\Loan.exe
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\Loan.pdb
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.Shared.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Data.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Images.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\FlashControlV71.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ShockwaveFlashObjects.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\stdole.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Data.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\obj\Debug\Loan.csproj.CopyComplete
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\Tulpep.NotificationWindow.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\MySql.Data.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\Google.Protobuf.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\BouncyCastle.Crypto.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\Renci.SshNet.dll
+D:\OFFICE\Projet\My Develop Systems\Loan\Loan\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\Desktop\Loan\Loan\bin\Debug\Loan.exe.config
+C:\Users\lenovo\Desktop\Loan\Loan\bin\Debug\Loan.exe
+C:\Users\lenovo\Desktop\Loan\Loan\bin\Debug\Loan.pdb
+C:\Users\lenovo\Desktop\Loan\Loan\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.Add_centers.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.add_system_Useres.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.Center_divaid_group.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.Loan_colect.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.login.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.main.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.members_add.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.Relese_Loan.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.remainder.resources
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.exe.licenses
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.exe
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.pdb
+C:\Users\lenovo\Desktop\Loan\Loan\obj\Debug\Loan.csproj.AssemblyReference.cache
